@@ -1,0 +1,52 @@
+{
+  "ones": [
+    "nol",
+    "satu",
+    "dua",
+    "tiga",
+    "empat",
+    "lima",
+    "enam",
+    "tujuh",
+    "delapan",
+    "sembilan",
+    "sepuluh",
+    "sebelas",
+    "duabelas",
+    "tigabelas",
+    "empatbelas",
+    "limabelas",
+    "enambelas",
+    "tujuhbelas",
+    "delapanbelas",
+    "sembilanbelas"
+  ],
+  "tens": [
+    "dua puluh",
+    "tiga puluh",
+    "empat puluh",
+    "lima puluh",
+    "enam puluh",
+    "tujuh puluh",
+    "delapan puluh",
+    "sembilan puluh"
+  ],
+  "scales": ["ratus", "ribu", " juta", " miliar", " triliun"],
+
+  "options": {
+    "language": "Bahasa Indonesia",
+    "hundreds": {
+      "prefix": " ",
+      "suffix": " "
+    },
+    "first": {
+      "custom": "se"
+    },
+    "suffix": {
+      "cons": " ",
+      "vowel": " "
+    },
+    "group": { "size": 3 },
+    "tooLarge": "Nomor kebasaran"
+  }
+}

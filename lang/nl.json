@@ -1,0 +1,44 @@
+{
+  "ones": [
+    "nul",
+    "één",
+    "twee",
+    "drie",
+    "vier",
+    "vijf",
+    "zes",
+    "zeven",
+    "acht",
+    "negen",
+    "tien",
+    "elf",
+    "twaalf",
+    "dertien",
+    "veertien",
+    "vijftien",
+    "zestien",
+    "zeventien",
+    "achttien",
+    "negentien"
+  ],
+  "tens": ["twintig", "dertig", "veertig", "vijftig", "zestig", "zeventig", "tachtig", "negentig"],
+  "scales": ["honderd", "duizend", " miljoen ", " miljard ", " biljoen "],
+
+  "options": {
+    "language": "Nederlands",
+    "hundreds": {
+      "prefix": "",
+      "suffix": ""
+    },
+    "first": {
+      "start": true,
+      "custom": ""
+    },
+    "suffix": {
+      "cons": "en",
+      "vowel": "ën"
+    },
+    "group": { "size": 4, "from": 1100, "to": 2000 },
+    "tooLarge": "Getal is te groot"
+  }
+}

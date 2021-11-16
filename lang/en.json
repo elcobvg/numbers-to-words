@@ -1,0 +1,41 @@
+{
+  "ones": [
+    "zero",
+    "one",
+    "two",
+    "three",
+    "four",
+    "five",
+    "six",
+    "seven",
+    "eight",
+    "nine",
+    "ten",
+    "eleven",
+    "twelve",
+    "thirteen",
+    "fourteen",
+    "fifteen",
+    "sixteen",
+    "seventeen",
+    "eightten",
+    "nineteen"
+  ],
+  "tens": ["twenty", "thirty", "forty", "fifty", "sixty", "seventy", "eighty", "ninety"],
+  "scales": [" hundred", " thousand", " million", " billion", " trillion"],
+
+  "options": {
+    "language": "English",
+    "hundreds": {
+      "prefix": " ",
+      "suffix": " "
+    },
+    "first": false,
+    "suffix": {
+      "cons": "-",
+      "vowel": "-"
+    },
+    "group": { "size": 3 },
+    "tooLarge": "Number too large"
+  }
+}
